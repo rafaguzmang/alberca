@@ -1,0 +1,56 @@
+.main{
+    background-color: azure;
+    width: 100%;
+    height: 940px;
+    padding: 20px;
+    padding-bottom: 30px;
+}
+header{
+    
+    height: 65%;
+}
+section{
+   
+    height: 35%;
+}
+header .avisos{
+    background-color: violet;
+    height: 100%;
+    width: 56%;
+    border-radius: 45px;
+    margin-left: 10px;
+}
+header .datos{
+    background-color: aqua;
+    height: 100%;
+    border-radius: 45px;
+    margin-right: 10px;
+    padding: 15px;
+}
+section .cajas{
+    background-color: cadetblue;
+    height: 100%;
+    width: 47%;
+    border-radius: 45px;
+    margin-left: 10px;
+    margin-right: 15px;;
+}
+section .otros{
+    background-color: rgb(95, 160, 104);
+    height: 100%;
+    border-radius: 45px;
+    margin-right: 10px;
+}
+thead{
+    font-size: 25px;
+}
+.celda{
+    font-size: 20px;
+}
+
+.ventana{
+    background: #f4f1f1;
+    width: 33.33%;
+    padding-inline-start: 5px;
+    border: 1px solid #000;
+}
